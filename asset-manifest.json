@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FIrstReact/static/css/main.163aa703.chunk.css",
+    "main.js": "/FIrstReact/static/js/main.5281d4ab.chunk.js",
+    "main.js.map": "/FIrstReact/static/js/main.5281d4ab.chunk.js.map",
+    "runtime-main.js": "/FIrstReact/static/js/runtime-main.aa74ab56.js",
+    "runtime-main.js.map": "/FIrstReact/static/js/runtime-main.aa74ab56.js.map",
+    "static/js/2.93748e28.chunk.js": "/FIrstReact/static/js/2.93748e28.chunk.js",
+    "static/js/2.93748e28.chunk.js.map": "/FIrstReact/static/js/2.93748e28.chunk.js.map",
+    "index.html": "/FIrstReact/index.html",
+    "precache-manifest.fe92826ccc6aa6f8b649ed4be5ce8e81.js": "/FIrstReact/precache-manifest.fe92826ccc6aa6f8b649ed4be5ce8e81.js",
+    "service-worker.js": "/FIrstReact/service-worker.js",
+    "static/css/main.163aa703.chunk.css.map": "/FIrstReact/static/css/main.163aa703.chunk.css.map",
+    "static/js/2.93748e28.chunk.js.LICENSE.txt": "/FIrstReact/static/js/2.93748e28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa74ab56.js",
+    "static/js/2.93748e28.chunk.js",
+    "static/css/main.163aa703.chunk.css",
+    "static/js/main.5281d4ab.chunk.js"
+  ]
+}
