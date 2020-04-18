@@ -1,17 +1,12 @@
-import React from 'react';
+// first file to be loaded into browser
+
 import ReactDOM from 'react-dom';
-import './index.css';
+import React from 'react';
+
+// no curly brace, default import
 import App from './App';
-import * as serviceWorker from './serviceWorker';
+console.log('starting react');
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+// bootstrap react into browser
+ReactDOM.render(<App />, 
+                document.getElementById('root') );
